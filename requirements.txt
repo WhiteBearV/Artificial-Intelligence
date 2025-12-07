@@ -1,0 +1,12 @@
+# Core ML Stack
+tensorflow>=2.16.0
+
+# Visualization / Plotting
+matplotlib>=3.8.0
+
+# Numerical Foundation
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Optional but strongly recommended for ML workflow
+scikit-learn>=1.4.0
