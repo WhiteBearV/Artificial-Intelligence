@@ -1,5 +1,5 @@
 # Core ML Stack
-tensorflow>=2.16.0
+tensorflow
 
 # Visualization / Plotting
 matplotlib>=3.8.0
